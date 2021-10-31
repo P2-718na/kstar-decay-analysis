@@ -2,7 +2,7 @@
   <img alt="Alma Mater Studiorum Logo" src="assets/unibo-logo.png">
 </div>
 
-# kstar-decayment-analysis
+# kstar-decay-analysis
 This is my project for my Physics laboratory-2 course at University of Bologna.
 todo
 
