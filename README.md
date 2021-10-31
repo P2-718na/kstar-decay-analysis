@@ -4,15 +4,7 @@
 
 # kstar-decayment-analysis
 This is my project for my Physics laboratory-2 course at University of Bologna.
-The goal of this project is to simulate a real-world use case for ROOT software.
-The project is divided in two parts. Firstly, we will generate data using the
-Montecarlo method, then we will analyze that data using ROOT's powerful
-instruments. The data we will be generating will mimic the real-world ALICE
-experiment at CERN. We want to prove that the K* particle exists in an unstable
-state that decays in a pion-kaon pair; to do that, we will be generating "mock"
-particle data, (which simulates real-world data acquired from CERN).
-If the K* particle exists, we will find some statistical discrepancies in the
-resulting data during the second phase of the prohect.
+todo
 
 ## setting up jupyter
 todo all this
