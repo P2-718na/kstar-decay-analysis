@@ -16,7 +16,7 @@ pipenv is required
 
 pipenv install
 
-(optional, needs a bit more testing (already trusted on other machines? I think not))
+you might want to trust this
 pipenv run jupyter trust notebook-name.ipynb 
 
 pipenv run jupyter-lab
