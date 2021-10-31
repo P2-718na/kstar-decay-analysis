@@ -23,6 +23,10 @@ for now.
 pipenv is required
 
 pipenv install
+
+(optional, needs a bit more testing (already trusted on other machines? I think not))
+pipenv run jupyter trust notebook-name.ipynb 
+
 pipenv run jupyter-lab
 
 all set. If on wsl, follow the link in console.
