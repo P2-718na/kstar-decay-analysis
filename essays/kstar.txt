@@ -1,0 +1,69 @@
+riassunto di quello che ha scritto l'arcelli nelle sue slide:
+
+1) Introduzione: descrivere brevemente lo scopo del programma
+
+2) Struttura del codice: quali classi sono state implementate, con che
+funzione, quali meccanismi di reimpiego di codice sono stati usati, e perchè
+
+3) Generazione: quanti eventi sono stati generati, quante particelle, quali
+tipi di particelle e con che proporzioni, come sono state generate le
+proprietà cinematiche.
+
+4) Analisi: Discutere la congruenza delle distribuzioni osservate con i dati in
+input alla generazione, spiegare brevemente l’approccio seguito per estrarre
+il segnale della risonanza
+
+Relazione-Sezione Analisi
+Presentare i risultati in una tabella –Abbondanze delle particelle:
+specie occorrenze
+osservate
+occorrenze
+attese
+π+ (X±dX) X
+π- (X±dX) X
+K+ (X±dX) X
+K- (X±dX) X
+p+ (X±dX) X
+P- (X±dX) X
+K* (X±dX) X
+
+( CAMBIARE FIT FUNCTION CON pol0 TODO)
+Presentare i risultati in una tabella - Distribuzione angoli polari e
+azimutali, modulo dell’impulso:
+distribuzione parametri
+Del Fit
+χ2 DOF χ2/DOF
+Fit a distribuzione
+angolo θ (pol0)
+(X±dX)
+Il parametro 0
+X X X
+Fit a distribuzione
+angolo ϕ (pol0)
+(X±dX)
+Il parametro 0
+X X X
+Fit a distribuzione
+modulo impulso
+(expo)
+(X±dX)
+Media EXP
+X X X
+
+Inserire le seguenti figure:
+• distribuzioni di abbondanza di particelle, dell’impulso, angolo
+polare, angolo azimutale (unica Canvas divisa in 4) con fit sovrapposti
+e parametri stampati nella box della statistica. Mettere i titoli agli assi.
+•Massa invariante delle K* vere, massa invariante ottenuta dalla
+differenza fra combinazioni di carica discorde e concorde, massa
+invariante ottenuta dalla differenza fra combinazioni πK di carica
+discorde e concorde (unica Canvas divisa in 3), con fit sovrapposti e
+parametri stampati nella box della statistica. Mettere i titoli agli assi.
+
+Importante:
+Allegare un listato stampato del codice (Classi e programma di
+generazione), sempre in formato pdf e all’interno del file che
+contiene la relazione. Diversamente la relazione sarà considerata
+non valutabile.
+
+Per ciascuna sezione max 250-300 parole
