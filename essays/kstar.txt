@@ -67,3 +67,6 @@ contiene la relazione. Diversamente la relazione sarà considerata
 non valutabile.
 
 Per ciascuna sezione max 250-300 parole
+
+
+TODO fixa il readme dell'altra repo
