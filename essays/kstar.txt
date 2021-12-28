@@ -9,16 +9,17 @@ funzione, quali meccanismi di reimpiego di codice sono stati usati, e perchè
 tipi di particelle e con che proporzioni, come sono state generate le
 proprietà cinematiche.
 
-4) Analisi: Discutere la congruenza delle distribuzioni osservate con i dati in
-input alla generazione, spiegare brevemente l’approccio seguito per estrarre
-il segnale della risonanza
+4) Analisi:
+-Discutere la congruenza delle distribuzioni osservate con i dati in input alla generazione
+-spiegare brevemente l’approccio seguito per estrarre il segnale della risonanza
 
 Relazione-Sezione Analisi
-Presentare i risultati in una tabella –Abbondanze delle particelle:
-specie occorrenze
-osservate
-occorrenze
-attese
+Presentare i risultati in una tabella
+–Abbondanze delle particelle:
+
+specie
+occorrenze osservate
+occorrenze attese
 π+ (X±dX) X
 π- (X±dX) X
 K+ (X±dX) X
