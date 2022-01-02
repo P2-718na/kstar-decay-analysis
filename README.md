@@ -4,43 +4,33 @@
 
 # kstar-decay-analysis
 This is my project for my Physics laboratory-2 course at University of Bologna.
-todo
-
-## setting up jupyter
-todo all this
-
-also, todo this should prob be added as custom cmake/make command, not bothering
-for now.
-
-pipenv is required
-
-pipenv install
-
-you might want to trust this
-pipenv run jupyter trust notebook-name.ipynb 
-
-pipenv run jupyter-lab
-
-all set. If on wsl, follow the link in console.
-Otherwise, it should open by itself.
-
-
-if there is a permission error on wsl, chown the crap outta it
-
-note that root --notebook is bugged asf
-
-also note that c++ root kernel is slow at loading. Have patience.
-
 
 ## Dependencies
 - [ROOT](https://root.cern/) (required, version 6.18^)
-todo
+- [pipenv](https://pipenv.pypa.io/en/latest/) (required)
 
 ## Running
-This code was tested and running on _Mac OS X 10.14.6 Mojave_.
-Please note that this is still WIP, I will update this section later.
+This code was tested and running on _Mac OS X 10.14.6 Mojave_ and _Windows 10_.
 
---------------------------------------------------------------------------------
+### Set-up Jupyter
+After installing dependencies, `cd` in the source code directory and run
+```shell
+pipenv install
+```
+to install modules.
+
+### Launch Jupyter Lab
+Run
+```shell
+pipenv run jupyter-lab
+```
+to launch jupyter. If it doesn't open by itself, follow the link on the
+console.
+
+### Troubleshooting
+If there is a permission error on wsl, just `chown` the needed files/directories.
 
 ## Additional notes
-TBD
+Don't use `root --notebook`, it's buggy.
+
+Also note that c++ root kernel is slow at loading. Have patience.
