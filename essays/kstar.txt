@@ -28,7 +28,6 @@ p+ (X±dX) X
 P- (X±dX) X
 K* (X±dX) X
 
-( CAMBIARE FIT FUNCTION CON pol0 TODO)
 Presentare i risultati in una tabella - Distribuzione angoli polari e
 azimutali, modulo dell’impulso:
 distribuzione parametri
@@ -55,6 +54,7 @@ Inserire le seguenti figure:
 • distribuzioni di abbondanza di particelle, dell’impulso, angolo
 polare, angolo azimutale (unica Canvas divisa in 4) con fit sovrapposti
 e parametri stampati nella box della statistica. Mettere i titoli agli assi.
+
 •Massa invariante delle K* vere, massa invariante ottenuta dalla
 differenza fra combinazioni di carica discorde e concorde, massa
 invariante ottenuta dalla differenza fra combinazioni πK di carica
